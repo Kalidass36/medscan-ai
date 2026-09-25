@@ -59,3 +59,5 @@ Project structure
 Notes
 
 - This project uses simple, rule-based NER and validation to stay fully free and offline-friendly. For production use, swap to specialized medical models (SciSpacy, fine-tuned transformers) and authoritative drug resources (RxNorm).
+
+This repository is built with Python and open-source technologies and includes an interactive application, API, tests, and deployment documentation.
