@@ -1,0 +1,14 @@
+pillow
+pytesseract
+spacy
+scispacy
+# SciSpacy BC5CDR model (chemicals + diseases). Installable via URL.
+en_ner_bc5cdr_md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_ner_bc5cdr_md-0.5.1.tar.gz
+fastapi
+uvicorn[standard]
+streamlit
+pytest
+requests
+fhir.resources
+PyMuPDF
+python-multipart

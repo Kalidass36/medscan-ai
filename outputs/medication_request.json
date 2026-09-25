@@ -1,0 +1,21 @@
+{
+  "resourceType": "MedicationRequest",
+  "status": "active",
+  "intent": "order",
+  "medicationCodeableConcept": {
+    "text": "Amoxicillin"
+  },
+  "subject": {
+    "reference": "Patient/patient-001"
+  },
+  "dosageInstruction": [
+    {
+      "text": "500mg for pneumonia"
+    }
+  ],
+  "reasonCode": [
+    {
+      "text": "pneumonia"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "drugs": {
+    "amoxicillin": {
+      "type": "antibiotic",
+      "common_dosages": ["250mg", "500mg", "875mg"]
+    },
+    "ibuprofen": {
+      "type": "nsaid",
+      "common_dosages": ["200mg", "400mg", "600mg"]
+    },
+    "metformin": {
+      "type": "antidiabetic",
+      "common_dosages": ["500mg", "850mg", "1000mg"]
+    }
+  },
+  "conditions": [
+    "pneumonia",
+    "type 2 diabetes",
+    "hypertension",
+    "asthma",
+    "bronchitis",
+    "migraine",
+    "anemia"
+  ]
+}

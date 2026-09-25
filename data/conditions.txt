@@ -1,0 +1,10 @@
+pneumonia
+hypertension
+diabetes
+headache
+fever
+infection
+asthma
+urinary tract infection
+bronchitis
+gastroenteritis
